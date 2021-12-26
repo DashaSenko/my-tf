@@ -8,5 +8,5 @@ terraform {
 
 provider "aws" {
   region  = var.region
-  profile = "d4ria"
+  profile = "default"
 }
